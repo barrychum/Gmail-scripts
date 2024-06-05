@@ -9,10 +9,3 @@ These are some Google App Scripts to automate or to simplify you Gmail housekeep
 - cleanupSPAMbyRules.gs : A script to move emails from user spam folder to the To Be Deleted label.
 - cleanupToBeDeleted.gs : A script to clean up emails with To Be Deleted label.
 
-
-
-<style>
-  table, th, td {
-    border: 1px solid white;
-  }
-</style>

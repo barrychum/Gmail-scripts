@@ -44,9 +44,3 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 </table>
 
-
-<style>
-  table, th, td {
-    border: 1px solid white;
-  }
-</style>
